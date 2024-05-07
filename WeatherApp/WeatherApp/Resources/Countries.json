@@ -1,0 +1,31 @@
+
+[
+  {
+    "country": "India",
+    "cities": ["Delhi", "Mumbai", "Bangalore", "Chennai"]
+  },
+  {
+    "country": "USA",
+    "cities": ["New York", "Los Angeles", "Chicago", "Houston"]
+  },
+  {
+    "country": "Australia",
+    "cities": ["Sydney", "Melbourne", "Brisbane", "Perth"]
+  },
+  {
+    "country": "Sri Lanka",
+    "cities": ["Colombo", "Kandy", "Galle", "Jaffna"]
+  },
+  {
+    "country": "West Indies",
+    "cities": ["Kingston", "Port of Spain", "Bridgetown", "St. John's"]
+  },
+  {
+    "country": "New Zealand",
+    "cities": ["Auckland", "Wellington", "Christchurch", "Hamilton"]
+  },
+  {
+    "country": "England",
+    "cities": ["London", "Manchester", "Birmingham", "Liverpool"]
+  }
+]
